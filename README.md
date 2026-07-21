@@ -1,2 +1,2 @@
-# practical1OST
-practical 1  of OST 
+# practical of ost
+practical of OST 
